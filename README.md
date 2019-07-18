@@ -15,6 +15,7 @@ description: "Progress reports for Spleetly Web App. Made with \U0001F49B by @sh
 #### DevOps
 
 * Created an organization _**xshermix**_ to collaborate on project and made Spleety repository at [https://github.com/xshermix/Spleetly](https://github.com/xshermix/Spleetly).
+* Made a private slack team with proper integrations to support proper development workflow.
 
 #### 
 
