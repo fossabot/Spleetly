@@ -3,6 +3,8 @@ description: "Progress reports for Spleetly Web App. Made with \U0001F49B by @sh
 ---
 
 # Spleetly Progress
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxshermix%2FSpleetly.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxshermix%2FSpleetly?ref=badge_shield)
+
 
 > [https://github.com/xshermix/Spleetly](https://github.com/xshermix/Spleetly)
 
@@ -21,3 +23,7 @@ description: "Progress reports for Spleetly Web App. Made with \U0001F49B by @sh
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxshermix%2FSpleetly.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxshermix%2FSpleetly?ref=badge_large)
